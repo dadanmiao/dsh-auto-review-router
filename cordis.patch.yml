@@ -1,0 +1,6 @@
+- insert:
+    - id: auto-review-router
+      name: 'dsh-auto-review-router'
+      config:
+        provider: your-review-provider
+        model: your-reviewer-model
